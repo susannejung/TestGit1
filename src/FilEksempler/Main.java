@@ -10,5 +10,6 @@ public class Main {
         System.out.print("Commit1_1");
         System.out.print("Commit1_2");
 	    System.out.print("Commit1_3");
+        System.out.print("OK");
     }
 }
