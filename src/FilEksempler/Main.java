@@ -10,6 +10,6 @@ public class Main {
         System.out.print("Commit4");
         System.out.print("Commit5");
 	     System.out.print("Teste Fetch");
-	    
+	    System.out.print("Teste Fetch2");
     }
 }
